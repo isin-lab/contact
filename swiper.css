@@ -1,0 +1,17 @@
+.swiper {
+  width: 80%;
+  max-width: 500px;
+  height: auto; 
+}
+
+img {
+ width: 100%;
+ max-width: 500px;
+}
+
+.swiper-button-prev {
+  display: none;
+}
+.swiper-button-next {
+  display: none;
+}
